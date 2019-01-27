@@ -1,0 +1,193 @@
+Year,Team_Name,Win_Pct,Pts_For,Pts_Agst
+2013,New England Patriots,0.75,444,338
+2013,New York Jets,0.5,290,387
+2013,Miami Dolphins,0.5,317,335
+2013,Buffalo Bills,0.375,339,388
+2013,Cincinnati Bengals,0.688,430,305
+2013,Pittsburgh Steelers,0.5,379,370
+2013,Baltimore Ravens,0.5,320,352
+2013,Cleveland Browns,0.25,308,406
+2013,Indianapolis Colts,0.688,391,336
+2013,Tennessee Titans,0.438,362,381
+2013,Jacksonville Jaguars,0.25,247,449
+2013,Houston Texans,0.125,276,428
+2013,Denver Broncos,0.813,606,399
+2013,Kansas City Chiefs,0.688,430,305
+2013,San Diego Chargers,0.563,396,348
+2013,Oakland Raiders,0.25,322,453
+2013,Philadelphia Eagles,0.625,442,382
+2013,Dallas Cowboys,0.5,439,432
+2013,New York Giants,0.438,294,383
+2013,Washington Redskins,0.188,334,478
+2013,Green Bay Packers,0.531,417,428
+2015,New England Patriots,0.75,465,315
+2016,New England Patriots,0.875,441,250
+2013,Chicago Bears,0.5,445,478
+2013,Detroit Lions,0.438,395,376
+2013,Minnesota Vikings,0.344,391,480
+2013,Carolina Panthers,0.75,366,241
+2013,New Orleans Saints,0.688,414,304
+2013,Atlanta Falcons,0.25,353,443
+2013,Tampa Bay Buccaneers,0.25,288,389
+2013,Seattle Seahawks,0.813,417,231
+2013,San Francisco 49ers,0.75,406,272
+2013,Arizona Cardinals,0.625,379,324
+2013,St. Louis Rams,0.438,348,364
+2015,New York Jets,0.625,387,314
+2015,Buffalo Bills,0.5,379,359
+2015,Miami Dolphins,0.375,310,389
+2015,Cincinnati Bengals,0.75,419,279
+2015,Pittsburgh Steelers,0.625,423,319
+2015,Baltimore Ravens,0.313,328,401
+2015,Cleveland Browns,0.188,278,432
+2015,Houston Texans,0.563,339,313
+2015,Indianapolis Colts,0.5,333,408
+2015,Jacksonville Jaguars,0.313,376,448
+2015,Tennessee Titans,0.188,299,423
+2015,Denver Broncos,0.75,355,296
+2016,Miami Dolphins,0.625,363,380
+2016,Buffalo Bills,0.438,399,378
+2016,New York Jets,0.313,275,409
+2016,Pittsburgh Steelers,0.688,399,327
+2016,Baltimore Ravens,0.5,343,321
+2016,Cincinnati Bengals,0.406,325,315
+2016,Cleveland Browns,0.063,264,452
+2016,Houston Texans,0.563,279,328
+2016,Tennessee Titans,0.563,381,378
+2016,Indianapolis Colts,0.5,411,392
+2016,Jacksonville Jaguars,0.188,318,400
+2016,Kansas City Chiefs,0.75,389,311
+2014,New England Patriots,0.75,468,313
+2017,New England Patriots,0.813,458,296
+2018,New England Patriots,0.688,436,325
+2015,Kansas City Chiefs,0.688,405,287
+2015,Oakland Raiders,0.438,359,399
+2015,San Diego Chargers,0.25,320,398
+2015,Washington Redskins,0.563,388,379
+2015,Philadelphia Eagles,0.438,377,430
+2015,New York Giants,0.375,420,442
+2015,Dallas Cowboys,0.25,275,374
+2015,Minnesota Vikings,0.688,365,302
+2015,Green Bay Packers,0.625,368,323
+2015,Detroit Lions,0.438,358,400
+2015,Chicago Bears,0.375,335,397
+2015,Carolina Panthers,0.938,500,308
+2015,Atlanta Falcons,0.5,339,345
+2015,New Orleans Saints,0.438,408,476
+2015,Tampa Bay Buccaneers,0.375,342,417
+2015,Arizona Cardinals,0.813,489,313
+2015,Seattle Seahawks,0.625,423,277
+2015,St. Louis Rams,0.438,280,330
+2015,San Francisco 49ers,0.313,238,387
+2016,Oakland Raiders,0.75,416,385
+2016,Denver Broncos,0.563,333,297
+2016,San Diego Chargers,0.313,410,423
+2016,Dallas Cowboys,0.813,421,306
+2016,New York Giants,0.688,310,284
+2016,Washington Redskins,0.531,396,383
+2016,Philadelphia Eagles,0.438,367,331
+2016,Green Bay Packers,0.625,432,388
+2016,Detroit Lions,0.563,346,358
+2016,Minnesota Vikings,0.5,327,307
+2016,Chicago Bears,0.188,279,399
+2016,Atlanta Falcons,0.688,540,406
+2016,Tampa Bay Buccaneers,0.563,354,369
+2016,New Orleans Saints,0.438,469,454
+2016,Carolina Panthers,0.375,369,402
+2016,Seattle Seahawks,0.656,354,292
+2016,Arizona Cardinals,0.469,418,362
+2016,Los Angeles Rams,0.25,224,394
+2016,San Francisco 49ers,0.125,309,480
+2014,Buffalo Bills,0.563,343,289
+2014,Miami Dolphins,0.5,388,373
+2014,New York Jets,0.25,283,401
+2014,Pittsburgh Steelers,0.688,436,368
+2014,Cincinnati Bengals,0.656,365,344
+2014,Baltimore Ravens,0.625,409,302
+2014,Cleveland Browns,0.438,299,337
+2014,Indianapolis Colts,0.688,458,369
+2014,Houston Texans,0.563,372,307
+2014,Jacksonville Jaguars,0.188,249,412
+2014,Tennessee Titans,0.125,254,438
+2014,Denver Broncos,0.75,482,354
+2014,Kansas City Chiefs,0.563,353,281
+2014,San Diego Chargers,0.563,348,348
+2014,Oakland Raiders,0.188,253,452
+2014,Dallas Cowboys,0.75,467,352
+2014,Philadelphia Eagles,0.625,474,400
+2017,Buffalo Bills,0.563,302,359
+2017,Miami Dolphins,0.375,281,393
+2017,New York Jets,0.313,298,382
+2017,Pittsburgh Steelers,0.813,406,308
+2017,Baltimore Ravens,0.563,395,303
+2017,Cincinnati Bengals,0.438,290,349
+2017,Cleveland Browns,0,234,410
+2017,Jacksonville Jaguars,0.625,417,268
+2017,Tennessee Titans,0.563,334,356
+2017,Houston Texans,0.25,338,436
+2017,Indianapolis Colts,0.25,263,404
+2017,Kansas City Chiefs,0.625,415,339
+2017,Los Angeles Chargers,0.563,355,272
+2017,Oakland Raiders,0.375,301,373
+2017,Denver Broncos,0.313,289,382
+2017,Philadelphia Eagles,0.813,457,295
+2017,Dallas Cowboys,0.563,354,332
+2017,Washington Redskins,0.438,342,388
+2017,New York Giants,0.188,246,388
+2017,Minnesota Vikings,0.813,382,252
+2017,Detroit Lions,0.563,410,376
+2017,Green Bay Packers,0.438,320,384
+2017,Chicago Bears,0.313,264,320
+2017,New Orleans Saints,0.688,448,326
+2017,Carolina Panthers,0.688,363,327
+2018,Miami Dolphins,0.438,319,433
+2018,Buffalo Bills,0.375,269,374
+2018,New York Jets,0.25,333,441
+2018,Baltimore Ravens,0.625,389,287
+2018,Pittsburgh Steelers,0.594,428,360
+2018,Cleveland Browns,0.469,359,392
+2018,Cincinnati Bengals,0.375,368,455
+2018,Houston Texans,0.688,402,316
+2018,Indianapolis Colts,0.625,433,344
+2018,Tennessee Titans,0.563,310,303
+2018,Jacksonville Jaguars,0.313,245,316
+2018,Kansas City Chiefs,0.75,565,421
+2018,Los Angeles Chargers,0.75,428,329
+2018,Denver Broncos,0.375,329,349
+2018,Oakland Raiders,0.25,290,467
+2018,Dallas Cowboys,0.625,339,324
+2018,Philadelphia Eagles,0.563,367,348
+2018,Washington Redskins,0.438,281,359
+2018,New York Giants,0.313,369,412
+2018,Chicago Bears,0.75,421,283
+2018,Minnesota Vikings,0.531,360,341
+2018,Green Bay Packers,0.406,376,400
+2014,New York Giants,0.375,380,400
+2014,Washington Redskins,0.25,301,438
+2014,Green Bay Packers,0.75,486,348
+2014,Detroit Lions,0.688,321,282
+2014,Minnesota Vikings,0.438,325,343
+2014,Chicago Bears,0.313,319,442
+2014,Carolina Panthers,0.469,339,374
+2014,New Orleans Saints,0.438,401,424
+2014,Atlanta Falcons,0.375,381,417
+2014,Tampa Bay Buccaneers,0.125,277,410
+2014,Seattle Seahawks,0.75,394,254
+2014,Arizona Cardinals,0.688,310,299
+2014,San Francisco 49ers,0.5,306,340
+2014,St. Louis Rams,0.375,324,354
+2017,Atlanta Falcons,0.625,353,315
+2017,Tampa Bay Buccaneers,0.313,335,382
+2017,Los Angeles Rams,0.688,478,329
+2017,Seattle Seahawks,0.563,366,332
+2017,Arizona Cardinals,0.5,295,361
+2017,San Francisco 49ers,0.375,331,383
+2018,Detroit Lions,0.375,324,360
+2018,New Orleans Saints,0.813,504,353
+2018,Atlanta Falcons,0.438,414,423
+2018,Carolina Panthers,0.438,376,382
+2018,Tampa Bay Buccaneers,0.313,396,464
+2018,Los Angeles Rams,0.813,527,384
+2018,Seattle Seahawks,0.625,428,347
+2018,San Francisco 49ers,0.25,342,435
+2018,Arizona Cardinals,0.188,225,425
