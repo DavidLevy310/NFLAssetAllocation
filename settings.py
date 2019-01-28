@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for SpiderNFLWins project
+# Scrapy settings for SpiderNFL project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'SpiderNFLWins'
+BOT_NAME = 'SpiderNFL'
 
-SPIDER_MODULES = ['SpiderNFLWins.spiders']
-NEWSPIDER_MODULE = 'SpiderNFLWins.spiders'
+SPIDER_MODULES = ['SpiderNFL.spiders']
+NEWSPIDER_MODULE = 'SpiderNFL.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'SpiderNFLWins (+http://www.yourdomain.com)'
+#USER_AGENT = 'SpiderNFL (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'SpiderNFLWins.middlewares.SpidernflwinsSpiderMiddleware': 543,
+#    'SpiderNFL.middlewares.SpidernflSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'SpiderNFLWins.middlewares.SpidernflwinsDownloaderMiddleware': 543,
+#    'SpiderNFL.middlewares.SpidernflDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -64,8 +64,7 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {'SpiderNFLWins.pipelines.WriteItemPipeline': 300}
-
+ITEM_PIPELINES = {'SpiderNFL.pipelines.WriteItemPipeline': 300}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
